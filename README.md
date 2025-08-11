@@ -11,3 +11,5 @@ grant.
 
 
 HAI
+
+see also latest list of compatible GPU Cards: https://developer.nvidia.com/cuda-gpus
